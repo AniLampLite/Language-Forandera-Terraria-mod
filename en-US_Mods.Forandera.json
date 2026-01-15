@@ -1,0 +1,1541 @@
+﻿{
+  "Items": {
+    "SkyFire": {
+      "DisplayName": "Sky Fire",
+      "Tooltip": "From Honkai 3rd.You will burn out of fire."
+    },
+    "WhiteSalvation": {
+      "DisplayName": "White Salvation",
+      "Tooltip": " May feathers soothe the pain..."
+    },
+    "Forandera": {
+      "DisplayName": "Forandera Staff",
+      "Tooltip": "May redemption bloom in the midst of suffering..."
+    },
+    "StarCross": {
+      "DisplayName": "Star Cross",
+      "Tooltip": "The darkness has already permeated the starry sky,can the stained Southern Cross still guide the way?"
+    },
+    "LooongSpear": {
+      "DisplayName": "Looong Spear",
+      "Tooltip": "Son of Sparda!"
+    },
+    "AK47": {
+      "DisplayName": "AK47",
+      "Tooltip": "Wola!"
+    },
+    "AK47SP": {
+      "DisplayName": "AK47-Fire Kirin",
+      "Tooltip": "CNY888!"
+    },
+    "Destruction": {
+      "DisplayName": "Destruction",
+      "Tooltip": "From Honkai 3rd. For your everything worthy!"
+    },
+    "DuskEye": {
+      "DisplayName": "Dusk Eye",
+      "Tooltip": "Dying light..."
+    },
+    "M2BP": {
+      "DisplayName": "M2",
+      "Tooltip": "Destroy the iron easily."
+    },
+    "SilentPart": {
+      "DisplayName": "Silent Part",
+      "Tooltip": "Only no voice can do."
+    },
+    "True": {
+      "DisplayName": "Key of Realme",
+      "Tooltip": "The way it starts......"
+    },
+    "TrueS": {
+      "DisplayName": "Realm of Realme-Origin",
+      "Tooltip": "Seeds bear new life when flowers dare to fade......"
+    },
+    "Tomato": {
+      "DisplayName": "Tomato",
+      "Tooltip": "why it is not a potato?"
+    },
+    "FSOH": {
+      "DisplayName": "Forandera-Seeds of Hopes",
+      "Tooltip": "Just remember all the stories you meet....."
+    },
+    "Malace": {
+      "DisplayName": "Malice",
+      "Tooltip": "The pages of this paper book are engraved with blood and broken bones.\nIt is evident that producing this book would come at a great cost.\nThe malice you emit is all aimed at your own sharp teehyp"
+    },
+    "SCS": {
+      "DisplayName": "Starcross-The Illumination",
+      "Tooltip": "It will make all damage.None will run away from the death."
+    },
+    "SC": {
+      "DisplayName": "QLU-11",
+      "Tooltip": "Convert bullets into grenades"
+    },
+    "Hypocricy": {
+      "DisplayName": "Hypocricy",
+      "Tooltip": "Someone once destroyed the city of Saint Denis under the banner of counterattack.\nBut after the fall of Saint Denis, no one could find the precious plants that originally existed in its laboratory.\nThe chess game between people has always been like this, \nOnly those who are unrelated to it and those who cannot influence the game care about benevolence and righteousness.\nIs this really what you want?"
+    },
+    "Justice": {
+      "DisplayName": "Justice",
+      "Tooltip": "There are many discussions about the federal government like river sands.\nSome people say that it has made great contributions to the survival and development of human civilization.\nSome people also say that it has created countless tragedies that should not have existed.\nHowever, the federation still operates in its own way,\nEven if it is only like a decaying tower, even if it is constantly collapsing with mud and sand.\nHowever, the balance is already unbalanced"
+    },
+    "SpadaHonor": {
+      "DisplayName": "Spada Honor",
+      "Tooltip": "This is......"
+    },
+    "HMBag": {
+      "DisplayName": "Hardmode Bag P1",
+      "Tooltip": "Throw to Shimmer to open it"
+    },
+    "HMBag2": {
+      "DisplayName": "Hardmode Bag P2",
+      "Tooltip": "Throw to Shimmer to open it"
+    },
+    "YinYangStone": {
+      "Tooltip": "Unified nature",
+      "DisplayName": "Yin Yang Stone"
+    },
+    "TerraHeart": {
+      "Tooltip": "Color of the world",
+      "DisplayName": "Terra Heart"
+    },
+    "SoulsCrystal": {
+      "Tooltip": "Polymer of six souls",
+      "DisplayName": "Souls Crystal"
+    },
+    "CondenceAlloy": {
+      "Tooltip": "Have a very well tenacity",
+      "DisplayName": "Condense Alloy"
+    },
+    "BlessingRing": {
+      "DisplayName": "Blessing Ring",
+      "Tooltip": "+2 hp regen,+5% endurance.Forandera is blessing you."
+    },
+    "TaichiRibben": {
+      "DisplayName": "Taichi Ribben",
+      "Tooltip": "+2 def,+2 hp regen,+20 maxhp and maxmp"
+    },
+    "AresBadge": {
+      "DisplayName": "Ares Badge",
+      "Tooltip": "+15% damage and 12% crit"
+    },
+    "BloodGodDust": {
+      "DisplayName": "Blood God Dust",
+      "Tooltip": "The blood of a god who has already died"
+    },
+    "BloodGodBadge": {
+      "DisplayName": "Blood God Badge",
+      "Tooltip": "+20% damage and 12% crit"
+    },
+    "CompassLantern": {
+      "DisplayName": "Compass Lantern",
+      "Tooltip": "You will have the POWER to roll over thw god......"
+    },
+    "EndnessRedCube": {
+      "DisplayName": "Endness Red Cube",
+      "Tooltip": "+150 maxhp,6 defence,6 life regen."
+    },
+    "NewlifeBless": {
+      "DisplayName": "Newlife Bless",
+      "Tooltip": "+4 defence,4 hp regen,50 maxhp and maxmp"
+    },
+    "BloodQuartzFlower": {
+      "DisplayName": "Blood Quartz Flower",
+      "Tooltip": "Summon the Bloom of Blood.No comsume."
+    },
+    "BloodGodDust2": {
+      "DisplayName": "Dust of pain",
+      "Tooltip": "The remaining soul of the Blood God mixed into its blood and turned into dust.\nPerhaps you can use it to create items with a Blood God theme.\nBut why does the ache only get worse?"
+    },
+    "BloodgoldAngel": {
+      "DisplayName": "Bloodgold Angel",
+      "Tooltip": "Shoot the bloodgold dirts"
+    },
+    "COP357": {
+      "DisplayName": "COP357-Bloodgold",
+      "Tooltip": "No,not just 4 barrels......"
+    },
+    "BloodstainHonour": {
+      "DisplayName": "Bloodstain Honour",
+      "Tooltip": "Pour the bloodgold boomer"
+    },
+    "Inferno": {
+      "DisplayName": "Inferno",
+      "Tooltip": "Build a scary bloodbeetle."
+    },
+    "PaperSword": {
+      "DisplayName": "Paper Sword",
+      "Tooltip": "Like something we do in class"
+    },
+    "DonQuixote": {
+      "DisplayName": "Don Quixote",
+      "Tooltip": "Successful or not,I am who I am;Iam my biggest enermy and friend..."
+    },
+    "EOM": {
+      "DisplayName": "Arid Love",
+      "Tooltip": "Summon the Divinity of Despair. You will never regret it again."
+    },
+    "Mixue": {
+      "Tooltip": "A strange ice cream,it may belong to a big snow man...",
+      "DisplayName": "Mixue Wand"
+    },
+    "Venus": {
+      "DisplayName": "Venus",
+      "Tooltip": "This sword is enough to bury the night.The power comes from the pursuit of endness beauty."
+    },
+    "OpticalLimit": {
+      "Tooltip": "This bow is alerady to pierce throw the sky.It will annihilate everything that obstrucys you.",
+      "DisplayName": "Optical Limit"
+    },
+    "NeonLimit": {
+      "Tooltip": "This staff points to the starting of light.Endness stars born from this place.",
+      "DisplayName": "Neon Comet"
+    },
+    "GalaxyAria": {
+      "Tooltip": "This object attracts the echos of stars.The waves of them will submerge the enermy.",
+      "DisplayName": "Galaxy Aria"
+    },
+    "RealismMetal": {
+      "Tooltip": "They look like a kind of metal,but Forandera repeatedly emphasized that it is unreal.",
+      "DisplayName": "Realism Metal"
+    },
+    "HollowDevourer": {
+      "Tooltip": "It will launch projectiles purely designed to penetrate the soul, and no object can stop it.",
+      "DisplayName": "Hollow Devourer"
+    },
+    "Dismemberment": {
+      "Tooltip": "This sword does not require any decoration, it only comes from the concept of \"dismember\".",
+      "DisplayName": "Dismemberment"
+    },
+    "MetalBass": {
+      "DisplayName": "Metal Bass",
+      "Tooltip": "C a t s L o v e F i s h"
+    },
+    "StarSeeds": {
+      "Tooltip": "Extraordinary and refined",
+      "DisplayName": "Star Seeds"
+    },
+    "NamelessEpic": {
+      "Tooltip": "The next day,the light tear the dark.",
+      "DisplayName": "Nameless Epic"
+    },
+    "EpicFragments": {
+      "Tooltip": "The old city-state, along with its dream of revival, has been destroyed.\nBlood flowed like a river. The blood branches, swollen from congestion, grew wildly upwards, obscuring the entire sky.\nWhy stand up? I have asked myself too many times.\nHowever, there is not much time to reminisce.\nI only remember the last moment, when a shower of blood poured down.\nWith the pride of memories flowing away.\n...\n\"After you set sail, there was a rainstorm\"\n\"It scattered the blood and the sea\"\n\"I witnessed it firsthand, causing memories to fade away\"\n\"In a daze, I saw the old figure return. \"\n——The Lamplighter",
+      "DisplayName": "Epic Fragments-Bloom of Blood"
+    },
+    "BloodgoldPickaxe": {
+      "Tooltip": "Pick and axe? Pickaxe!",
+      "DisplayName": "Bloodgold Pickaxe"
+    },
+    "SuperHunter": {
+      "DisplayName": "Super Hunter",
+      "Tooltip": "EARRRRRRRR-"
+    },
+    "TougueFish": {
+      "Tooltip": "Sure,it wanna be powerful.",
+      "DisplayName": "Tongue Fish"
+    },
+    "Mantle": {
+      "Tooltip": "Now vocano time!",
+      "DisplayName": "Mantle"
+    },
+    "CondenseSword": {
+      "Tooltip": "Buy now! With not hot pieces......",
+      "DisplayName": "Condense Nepal Saber"
+    },
+    "CondensePick": {
+      "Tooltip": "Did not you like hellstone?",
+      "DisplayName": "Condense Pick"
+    },
+    "KOE": {
+      "DisplayName": "Key of Emptiness",
+      "Tooltip": "Hear and hear all the voices trapped in thee......"
+    },
+    "KOR": {
+      "DisplayName": "Key of Radiance",
+      "Tooltip": "May all the beauty be blessed......"
+    },
+    "RedBeg": {
+      "DisplayName": "Red Bag",
+      "Tooltip": "Happy new year!"
+    },
+    "BossBagBoB": {
+      "DisplayName": "Boss Bag - Bloom of Blood",
+      "Tooltip": "You have overcome hardships.Click to open it."
+    },
+    "DespairShadow": {
+      "DisplayName": "Despair Shadow",
+      "Tooltip": "Thoroughly engraved and unforgettable"
+    },
+    "Lampwick": {
+      "DisplayName": "Lampwick",
+      "Tooltip": "Maybe you just take a bag"
+    },
+    "Notthebees": {
+      "DisplayName": "Calamibee ball",
+      "Tooltip": "Ohhh the jungle emperor will angry"
+    },
+    "SpiritsTotem": {
+      "DisplayName": "Spirits Totem",
+      "Tooltip": "+5 def,+2 summon column and 15% summon damage"
+    },
+    "UndyingHeroicSoul": {
+      "DisplayName": "Undying Heroic Soul",
+      "Tooltip": "Ghost of gods? Meaningless."
+    },
+    "AnchorofRealism": {
+      "DisplayName": "Anchor of Realism",
+      "Tooltip": "The direction of fate, determined not to forget."
+    },
+    "GSG": {
+      "DisplayName": "Grid of Star",
+      "Tooltip": "The lighthouse is eternal, with brightly spark shines."
+    },
+    "LunarIris": {
+      "DisplayName": "Lunar Iris",
+      "Tooltip": "A sealed knife, it will become stronger and stronger as you grow"
+    },
+    "LunarIris2": {
+      "DisplayName": "Lunar Iris",
+      "Tooltip": "A good knife, it is said to be a gift from someone to their close friend"
+    },
+    "LunarIris3": {
+      "DisplayName": "Lunar Iris",
+      "Tooltip": "A blood grinking knife, the power of the Blood God's remains is awakening it"
+    },
+    "LunarIris4": {
+      "DisplayName": "Lunar Iris",
+      "Tooltip": "A shining knife, it is said that its owner once used it to slay fallen evil gods"
+    },
+    "LunarIris5": {
+      "DisplayName": "Lunar Iris",
+      "Tooltip": "Today, I suddenly understand that you are right beside me"
+    },
+    "CrudeShell": {
+      "Tooltip": "",
+      "DisplayName": "Crude Shell"
+    },
+    "BloodgoldBar": {
+      "Tooltip": "A substance mixed with blood and soul, resembling metal in appearance\nYou seem to have heard an extremely subtle lament.",
+      "DisplayName": "Bloodgold Bar"
+    },
+    "BloodgodRocket": {
+      "Tooltip": "",
+      "DisplayName": "Bloodgod Rocket"
+    },
+    "PotatoCell": {
+      "Tooltip": "+4 summon column \n-45% summon damage\n\"Now leave\"",
+      "DisplayName": "Potato Cell"
+    },
+    "Cakelie": {
+      "Tooltip": "+1 life regen\n\"Cake is not a lie.Trust me.\"",
+      "DisplayName": "Cakelie"
+    },
+    "ATE": {
+      "Tooltip": "When your life is endangered, significantly increase life regeneration\n-15% generic attack\n\"It's real name is Anti-masochist Equation.\"",
+      "DisplayName": "ATE"
+    },
+    "SyringeGun": {
+      "Tooltip": "",
+      "DisplayName": "Syringe Gun"
+    },
+    "HealthBT": {
+      "Tooltip": "-100 hp, get a big damage buff one time",
+      "DisplayName": "Combat stimulant"
+    },
+    "M200": {
+      "Tooltip": "Increase your move speed",
+      "DisplayName": "M200-Illusionary God"
+    },
+    "LegenderyF": {
+      "Tooltip": "Smile, my proud child,\nThe sinking land blooms with flowers of hope;\nI will remember, my proud child,\nYour vow to expel suffering and pain;\nHave a beautiful dream, my proud child,\nYour answer is exactly yourself.\n...\n＂What is the far side of the moon?＂\n＂The back of the moon？＂\n＂No, not just the back of the moon, but also the entire starry sky behind it＂\n——A conversation at some point\n",
+      "DisplayName": "Epic Fragments - Divinity of Despair, Forandera"
+    },
+    "BossBagDoD": {
+      "Tooltip": "Smells like Chocolate",
+      "DisplayName": "Belated Gift"
+    },
+    "BossBagD": {
+      "DisplayName": "Boss Bag-Dead Falcon A-120",
+      "Tooltip": "Something left......"
+    },
+    "BookofRelife": {
+      "Tooltip": "This book is exquisite and elegant, and its content seems to be an adventure novel.\nAt the end of the story, the protagonist destroys the conspiracy and becomes a hero.\nEven if all the text above is fake.\nThis is a process of ordinary people moving towards greatness.",
+      "DisplayName": "Book of Relife"
+    },
+    "AK47SSP": {
+      "Tooltip": "",
+      "DisplayName": "AK47-Royal Heart"
+    },
+    "ZeroRebirth": {
+      "Tooltip": "",
+      "DisplayName": "Zero Rebirth"
+    },
+    "Enderwish": {
+      "DisplayName": "Dream of Finality",
+      "Tooltip": " Not occupying summon and pet storage space\n Summon Forandera to fight with you\n The radiance of hope purifies everything\n Add 20% generic damage"
+    },
+    "GeneSegment": {
+      "Tooltip": "",
+      "DisplayName": "Gene Segment"
+    },
+    "MGS": {
+      "DisplayName": "Mutant Gene Stabilizer",
+      "Tooltip": "+50 maxhp,-5 endurance"
+    },
+    "RC": {
+      "DisplayName": "Strange Card",
+      "Tooltip": "It might no use......huh?"
+    },
+    "BloodgodBullet": {
+      "DisplayName": "Bloodgod Bullet",
+      "Tooltip": "Powerful but Inaccurate"
+    },
+    "BloodgodShackle": {
+      "DisplayName": "Bloodgod Shackle",
+      "Tooltip": "50 damage\nIt might better than EoC Shield?"
+    },
+    "BloodHairpin": {
+      "DisplayName": "Blood Hairpin",
+      "Tooltip": "Pet but not worked......"
+    },
+    "Readme": {
+      "DisplayName": "The Book of Cooperation(Read me)",
+      "Tooltip": "Here we go?\nThis journey is different.\nThe girl with silver white long hair is watching you\nLet's witness together, the answer she is seeking\nAs the size of the settlement expands,hardworking community members will soon visit\nYour journey will have more fun\nIf you have enough townspeople, the Grand Archor will notice you\nMay you prove your courage to him\nNot long after, a mysterious guy will also arrive\nWhat is she going to do? Perhaps just watching from the side? No one knows.\nA distorted plague has erupted in the space layer, be careful not to contraact deadly diseases\nYou can also bravely create eings and follow in the footsteps of your predecessors\nPick up familiar materials to build new weapons, defeat the walls of hell's flesh and blood, and explore just begun\nWhent the wall of flesh and blood collapsed with a loud bang, and the souls bound in the world were liberated.\nThe townspeople are starting to sell more items, which is enough to deal with the new threat.\nIf you have the power to protect yourself, use the blood dust sold by Forandera and a crystal fragment to synthesize a stone quartz flower, and take revenge on the fallen blood god\nPay attention to collecting weapons and materials obtained during your journey, as they will be used to synthesize even more powerful items in the future\nFollow the path you are familiar with and defeat the conspiracy on the far side of the moon.\nA trial, an answer, pick up the short sword at the Forandera's place and release the secret behind her.\nThe bright light began to dim, but everything was not over.\nWaving the sickle symbolizing light and darkness, picking up the lamp of infinite light, to tear apart all darkness.\n"
+    },
+    "A180": {
+      "DisplayName": "A180",
+      "Tooltip": "Very fast!"
+    },
+    "TSG": {
+      "DisplayName": "Peregrine Falcon SMG",
+      "Tooltip": "Fast, precise, and powerful"
+    },
+    "LeAMHS": {
+      "DisplayName": "Epic Fragments-Atmospheric Maternal Heterogeneity Syndrome",
+      "Tooltip": "The spore left its obituary to the world\nRunning towards the sky, the beast has already died\nIt will turn into rust rain, eroding the wounds of the earth\nCorroded skill, corroded steel, corroded soul\nWhat is more intense than ancient tides\nEnough to dissolve all the lines\n...\n\"Absurd as it is, it is the tip of the iceberg of what I once saw.\nAnd what I see today, you are enough to tear apart filth into falling clouds.\nContinue to prove your courage and ignite it into an explosive new star. ”\n——The Archor"
+    },
+    "FallenVine": {
+      "Tooltip": "Pierce the enemy with blood",
+      "DisplayName": "Fallen Vine"
+    },
+    "BloodSharp": {
+      "Tooltip": "Pester your enermy",
+      "DisplayName": "Blood Sharp"
+    },
+    "ENSD": {
+      "DisplayName": "Equation-Normal Stability Device",
+      "Tooltip": "+15 Melee and Ranged final damage\n-50% Magic Damage\n-25% Summon Damage"
+    },
+    "GreenSpar": {
+      "DisplayName": "Green Green Green Spar",
+      "Tooltip": "Increases summon damage by 5% for every 100 max mana\n-20% Mana Cost\n-50% Melee Damage\n-25% Ranged Damage\n"
+    },
+    "FearfulPheromone": {
+      "DisplayName": "Fearful Pheromone",
+      "Tooltip": "Summon Atmospheric Maternal Heterogeneity Syndrome."
+    },
+    "ConS": {
+      "DisplayName": "Condense Rapier",
+      "Tooltip": ""
+    },
+    "RayshotPart": {
+      "Tooltip": "Can be used to make standard weapons and tools",
+      "DisplayName": "Weapon production parts I"
+    },
+    "RayshotHandgun": {
+      "Tooltip": "Large caliber handgun",
+      "DisplayName": "Rayshot Handgun"
+    },
+    "DepletedUraniumBox": {
+      "Tooltip": "Infinite depleted uranium bombs can cause terrifying sustained damage and reduce target attack power",
+      "DisplayName": "Depleted Uranium Box"
+    },
+    "TSGPart": {
+      "Tooltip": "Can be used to make standard weapons and tools",
+      "DisplayName": "Weapon production parts II"
+    },
+    "StunBullet": {
+      "DisplayName": "Stun Bullet",
+      "Tooltip": "Decrease the knockback endurence of NPC\nDecrease the speed of player\nNot effective for Boss."
+    },
+    "BloodgodBulletEP": {
+      "DisplayName": "Endness Bloodgod Bullet Box",
+      "Tooltip": "Much fun!"
+    },
+    "StunBulletEP": {
+      "DisplayName": "Endness Stun Bullet Box",
+      "Tooltip": "No one can move happily now"
+    },
+    "KCBadge": {
+      "Tooltip": "Increase move speed and max run speed.Immune fall damage",
+      "DisplayName": "King Comba Badge"
+    },
+    "WufrumMiaodao": {
+      "DisplayName": "Wulfrum Miaodao",
+      "Tooltip": "Not meow blade......"
+    },
+    "Fxxk": {
+      "Tooltip": "no,no,nononono!",
+      "DisplayName": "Stinkbug Sauce"
+    },
+    "H12": {
+      "Tooltip": "Bucket.Yet.but this is 2 defence, not 1.",
+      "DisplayName": "12 Hallowed Bar Tied To The Head"
+    },
+    "RefineGCM": {
+      "Tooltip": "+100 maxhp,+2 defence and life regen",
+      "DisplayName": "Refine Symbiont"
+    },
+    "FleurDeLis": {
+      "Tooltip": "The sabre of Iris Army",
+      "DisplayName": "Fleur De Lis"
+    },
+    "ConSoulLight": {
+      "Tooltip": "+1 max minions, +5% summon damage",
+      "DisplayName": "Condense Soul Light"
+    },
+    "StoryBecauseOfYou": {
+      "Tooltip": "Where it start......",
+      "DisplayName": "Story Because Of You"
+    },
+    "StoryBecauseOfYou6": {
+      "Tooltip": "Where it end.",
+      "DisplayName": "Story Because Of You"
+    },
+    "StoryBecauseOfYou5": {
+      "Tooltip": "",
+      "DisplayName": "Story Because Of You"
+    },
+    "StoryBecauseOfYou4": {
+      "Tooltip": "",
+      "DisplayName": "Story Because Of You"
+    },
+    "StoryBecauseOfYou3": {
+      "Tooltip": "",
+      "DisplayName": "Story Because Of You"
+    },
+    "StoryBecauseOfYou2": {
+      "Tooltip": "",
+      "DisplayName": "Story Because Of You"
+    },
+    "ForanderaQuartz": {
+      "DisplayName": "Forandera Quartz",
+      "Tooltip": "Increase maximum health by 100\nProvide additional effects based on different current lives\nWhen the health is greater than 25%, increase damage by 10% and critical strike by 10%\nWhen the life is less than 25%, increase 20 defenses and 5 life regenerations"
+    },
+    "ScorchingSun": {
+      "Tooltip": "",
+      "DisplayName": "Scorching Sun"
+    },
+    "SilvermoonKnight": {
+      "DisplayName": "Silvermoon Knight",
+      "Tooltip": "A wide bladed giant gun that once belonged to a witty guardian.\nThe will of a person shines brighter than the reflection of metal."
+    },
+    "TwilightWitch": {
+      "DisplayName": "Twilight Witch",
+      "Tooltip": "A staff, with colorful projectiles\ndifferent colors have different effects\n"
+    },
+    "DeadBossS": {
+      "DisplayName": "Military Pager",
+      "Tooltip": "Summon Dead Falcon."
+    },
+    "M1887": {
+      "DisplayName": "M1887",
+      "Tooltip": "Yeah!"
+    },
+    "MiddleFinger": {
+      "DisplayName": "Middle Finger",
+      "Tooltip": "Summon a skeletion head."
+    },
+    "Midnight": {
+      "DisplayName": "Midnight",
+      "Tooltip": "A collection of fables about the starry sky"
+    },
+    "LegenderyD": {
+      "DisplayName": "Epic Fragments-Dead Falcon",
+      "Tooltip": "Without wings, we do not belong to the sky\nSo we picked up the wax and created wings\nAnd then proudly soar in the sky\n\"We will eventually die \"we said\n\"Our story will be remembered by someone \"we said\nUntil the scorching sun melted away the dreams\nWe fell into the sea and died\n...\n\"I have heard of the deeds of the heroes of peregrine falcons.\nGuardian of the sky, I will pray that the filth on your bodies may fade away, and that your souls may return to the earth\"\n——The Star Facilitator, Forandera\n"
+    },
+    "StarColor": {
+      "DisplayName": "Star Color",
+      "Tooltip": "Starfall"
+    },
+    "StarEntropy": {
+      "DisplayName": "Star Entropy",
+      "Tooltip": "Judge descended from the sky"
+    },
+    "BloodgoldBody": {
+      "DisplayName": "Bloodgold Robe",
+      "Tooltip": "22 Defense\nIncrease 5% crit and 5% endurance"
+    },
+    "BloodgoldHead": {
+      "DisplayName": "Bloodgold Hood",
+      "Tooltip": "10 Defense\nIncrease 10% magic damage,3% magic crit and 50 max mana"
+    },
+    "BloodgoldLegs": {
+      "DisplayName": "Bloodgold Legging",
+      "Tooltip": "18 Defense\nIncrease 15% move speed and 1 life regen"
+    },
+    "CurtainShattered": {
+      "DisplayName": "Curtain Shattered",
+      "Tooltip": ""
+    },
+    "GreatDesecrate": {
+      "DisplayName": "Great Desecrate",
+      "Tooltip": "Shoot a spair or two darts\n\"The scepter from the burial god. It seems that you have gained her trust\""
+    },
+    "NamelessBlade": {
+      "DisplayName": "Nameless Blade",
+      "Tooltip": ""
+    },
+    "BloodgoldArrow": {
+      "DisplayName": "Bloodgold Arrow",
+      "Tooltip": ""
+    },
+    "QSJ193": {
+      "Tooltip": "Fast and Precise",
+      "DisplayName": "QSJ193"
+    },
+    "CollisionGunStock": {
+      "Tooltip": "+10% ranged use speed,+5% ranged crit",
+      "DisplayName": "Collision Gun Stock"
+    },
+    "A4": {
+      "Tooltip": "Rive enemy just like rive paper",
+      "DisplayName": "A4 Rifle"
+    },
+    "Redruin1": {
+      "DisplayName": "Red Ruin",
+      "Tooltip": "Add health when hit enemys by blade"
+    },
+    "Redruin2": {
+      "DisplayName": "Red Ruin-II",
+      "Tooltip": "Add health when hit enemys by blade"
+    },
+    "Redruin3": {
+      "DisplayName": "Red Ruin-III",
+      "Tooltip": "Add health when hit enemys by blade"
+    },
+    "MemoryCoin": {
+      "DisplayName": "Memory Coin",
+      "Tooltip": "You can retrieve what you have never gained or lost before"
+    },
+    "MagicAmulic": {
+      "DisplayName": "Magic Amulic",
+      "Tooltip": "Increase 30 defense and 10% endurance when heath is full"
+    },
+    "PureSpar": {
+      "DisplayName": "Pure Spar",
+      "Tooltip": "Reduce damage from debuffs\nIncrease defense when you have Mental Trauma buff."
+    },
+    "RecastJewelry": {
+      "DisplayName": "Recast Jewelry",
+      "Tooltip": "Increase defense and endurance when heath is full.\nReduce damage from debuffs.\nIncrease defense when you have Mental Trauma/Blood Collapse/Mutation/Gene Breakdown buff."
+    },
+    "ShiningNecklace": {
+      "DisplayName": "Shining Necklace",
+      "Tooltip": "Increase defense when you have Mutation/Gene Breakdown buff."
+    },
+    "TheReminisce": {
+      "DisplayName": "The Reminisce",
+      "Tooltip": "Increase maximum health by 150.\nIncrease defense and endurance when heath is full.\nReduce damage from debuffs.\nIncrease defense when you have Mental Trauma/Blood Collapse/Mutation/Gene Breakdown buff.\nProvide additional effects based on different current lives.\nWhen the health is greater than 25%, increase damage by 10% and critical strike by 10%.\nWhen the life is less than 25%, increase 20 defenses and 5 life regenerations."
+    },
+    "TremorCore": {
+      "Tooltip": "+18% damage. When the life is below 50%, the effect doubles",
+      "DisplayName": "Tremor Core"
+    },
+    "StormShackles": {
+      "Tooltip": "Add move speed and max flying time. When the life is below 50%, the effect double",
+      "DisplayName": "Storm Shackles"
+    },
+    "ScaleShield": {
+      "Tooltip": "+12 defense and 5% endurance. When the life is below 50%, the effect double",
+      "DisplayName": "Scale Shield"
+    },
+    "RealismCatalyst": {
+      "Tooltip": "Used to catalyze the Realism Metal or make weapons.",
+      "DisplayName": "Realism Catalyst"
+    },
+    "LeMeg": {
+      "Tooltip": "Trembling towards the abyss is a biological instinct\nNow use reason. We will suppress fear.\nI heard it, it declared the end of all things.\nBut who can profane the meaning of existence?\nWho is qualified to use death to shatter reality?\nProve it, under the curse of lunar rock refraction\nThose who destroy everything will eventually be destroyed by destruction.\n...\n\"The titan that devours the core of terra, it is no less powerful than a divine creation.\nHowever, it is ultimately just an unintentional beast, not worthy of sympathy or belief\"\n——The Lamplighter",
+      "DisplayName": "Epic Fragments- Titan Epifocus"
+    },
+    "BossBagMeg": {
+      "DisplayName": "Boss Bag-Titan Epifocus",
+      "Tooltip": "Looks like a pot"
+    },
+    "ResonicFolk": {
+      "DisplayName": "Resonic Folk",
+      "Tooltip": "Summon the Titan Epifocus"
+    },
+    "COP357S": {
+      "DisplayName": "COP357-Gold Beast",
+      "Tooltip": ""
+    },
+    "KCS": {
+      "DisplayName": "KC Contact",
+      "Tooltip": "Summon friendly KC Army to help you."
+    },
+    "Note": {
+      "DisplayName": "Note",
+      "Tooltip": "Are those equation gadgets fun? \nIf you haven't even tried it once now, I would be very sad then.\nTo make fun of. I want you to do me a favor, which is to collect some 'epics'. Just recording something ... a simple story.\nIt may cost a lot of effort, but for both you and me, it's definitely worth it.\nI believe you can do it. I will always wait for you."
+    },
+    "StingNeedle": {
+      "DisplayName": "Sting Needle",
+      "Tooltip": ""
+    },
+    "WeightofExistence": {
+      "DisplayName": "Weight of Existence",
+      "Tooltip": "Increase 25% damage and 10% crit\nbut decrease 100% endurance and 2 life regen."
+    },
+    "BronyaCC": {
+      "DisplayName": "Bronya C C",
+      "Tooltip": ""
+    },
+    "BronyaLegs": {
+      "Tooltip": "19 Defense\n+18% move speed\nIncrease max move speed\n+20% Collapse Buff endurance",
+      "DisplayName": "Bronya Legs"
+    },
+    "BronyaHead": {
+      "Tooltip": "16 Defense\n+15% Damage\n+5% Crit\n+20% Collapse Buff endurance",
+      "DisplayName": "Bronya Head"
+    },
+    "BronyaBody": {
+      "Tooltip": "25 Defense\n+10% endurance\n+4 life regen\n+20% Collapse Buff endurance",
+      "DisplayName": "Bronya Body"
+    },
+    "Mirage": {
+      "DisplayName": "Mirage",
+      "Tooltip": ""
+    },
+    "ZirconiumBar": {
+      "DisplayName": "Zirconium Bar",
+      "Tooltip": "Its function has not been fully developed"
+    },
+    "ZirconiumOre": {
+      "DisplayName": "Zirconium Ore",
+      "Tooltip": "A kind of special material"
+    },
+    "ADS": {
+      "DisplayName": "Adamantite Shortsword",
+      "Tooltip": ""
+    },
+    "CHS": {
+      "DisplayName": "Chlorophyte Shortsword",
+      "Tooltip": ""
+    },
+    "HES": {
+      "DisplayName": "Hellstone Shortsword",
+      "Tooltip": ""
+    },
+    "ORS": {
+      "DisplayName": "Orichalcum Shortsword",
+      "Tooltip": ""
+    },
+    "PAS": {
+      "DisplayName": "Palladium Shortsword",
+      "Tooltip": ""
+    },
+    "TITS": {
+      "DisplayName": "Titanium Shortsword",
+      "Tooltip": ""
+    },
+    "COS": {
+      "DisplayName": "Cobalt Shortsword",
+      "Tooltip": ""
+    },
+    "MYS": {
+      "DisplayName": "Mythril Shortsword",
+      "Tooltip": ""
+    },
+    "BronyaBody1": {
+      "DisplayName": "Bronya Body-Vanity",
+      "Tooltip": ""
+    },
+    "BronyaHead1": {
+      "DisplayName": "Bronya Head-Vanity",
+      "Tooltip": ""
+    },
+    "BronyaLegs1": {
+      "DisplayName": "Bronya Legs-Vanity",
+      "Tooltip": ""
+    },
+    "Enderwish1": {
+      "DisplayName": "Enderwish-Vanity",
+      "Tooltip": "Summon the shadow of Forandera"
+    },
+    "LeJworm": {
+      "Tooltip": "In the corners of the old miasma, time weaves into cocoons\nAnd then it was born from the bottom\nHurry up, even faster, said the slaughter\nQuickly build the forgotten into scales\nQuickly turn the desecrated into a feast\nOnly dignity has not been picked up again\nWhen the rock of vanity shatters, you will see\nThose millions of eyes are staring at you\nLike staring at another piece of garbage that should have been buried\n......\n\"Being born like morning dew is not the fault of fate.\nBut the result is like this... perhaps, this is the original sin.\"\n——The Star Facilitator, Forandera",
+      "DisplayName": "Epic Fragments-Moulty Heritage"
+    },
+    "JwormS": {
+      "Tooltip": "Summon Moulty Heritage",
+      "DisplayName": "Fusty Fungus"
+    },
+    "StaroverBar": {
+      "DisplayName": "Starover Bar",
+      "Tooltip": "Fogotten......"
+    },
+    "StaroverPiece": {
+      "DisplayName": "Starover Piece",
+      "Tooltip": "Memories......"
+    },
+    "WMS": {
+      "DisplayName": "Starover Lingo",
+      "Tooltip": "Summer Wander Mech-143"
+    },
+    "AbyssDragon": {
+      "DisplayName": "Abyss Dragon",
+      "Tooltip": "Launch powerful harpoons"
+    },
+    "StaroverPickaxe": {
+      "DisplayName": "Starover Pickaxe",
+      "Tooltip": "Collecting stars underground"
+    },
+    "StaroverFork": {
+      "DisplayName": "Starover Fork",
+      "Tooltip": "Shining!"
+    },
+    "StaroverBody": {
+      "DisplayName": "Starover Armor",
+      "Tooltip": "8 defence\nIncrease 3% crit"
+    },
+    "StaroverLegs": {
+      "DisplayName": "Starover Legging",
+      "Tooltip": "7 defence\nIncrease 8% move speed and 3% crit"
+    },
+    "StaroverMagic": {
+      "DisplayName": "Starover Beret",
+      "Tooltip": "Increase 10% magic damage and 5% crit"
+    },
+    "StaroverMelee": {
+      "DisplayName": "Starover Helmet",
+      "Tooltip": "Increase 10% melee damage and 5% crit"
+    },
+    "StaroverRanged": {
+      "DisplayName": "Starover Mask",
+      "Tooltip": "Increase 10% ranged damage and 5% crit"
+    },
+    "StaroverSummon": {
+      "DisplayName": "Starover Cap",
+      "Tooltip": "Increase 12% summon damage and 1 ma minion"
+    },
+    "BossBagWM": {
+      "DisplayName": "Boss Bag-Wandering Mech",
+      "Tooltip": ""
+    },
+    "LeWM": {
+      "DisplayName": "Epic Fragment-Wandering Mech",
+      "Tooltip": "The Forgotten, don't raise your eyes, the earth lies barren before you.\nThe Forsaken, don't raise your eyes, this land claims you no more.\nThe Condemned, don't raise your eyes, the earth holds not your glory.\nO' Bearer of the Greatest Name—\nBefore all, all, all ends,\nCast your eyes to sky one last time\nHold true to your oath, until Time itself crumbles to dust.\n......\n\"A lonely machine buried underground for hundreds of years? Terrifying meow! \nBut... there will be a day when even we will be forgotten meow?\"\n--The Community Committee Member"
+    },
+    "WMArrow": {
+      "DisplayName": "Starover Arrow",
+      "Tooltip": "Don not be intimidated!"
+    },
+    "StarofBethlehem": {
+      "DisplayName": "Star of Bethlehem",
+      "Tooltip": "Magic weapon attacks will have additional effects of burning, poisoning, and electrification"
+    },
+    "ForgottenShackled": {
+      "DisplayName": "Forgotten Shackled",
+      "Tooltip": "3 defence\nNo fallen damage\nAdd 30 max flying time"
+    },
+    "StarHeatDeath": {
+      "Tooltip": "Next time you pull the trigger, you shouldn't hesitate anymore",
+      "DisplayName": "Star Heat Death"
+    },
+    "Starfall": {
+      "Tooltip": "",
+      "DisplayName": "Starfall"
+    },
+    "Starblade": {
+      "Tooltip": "So dazzled, so dazzleed",
+      "DisplayName": "Starblade"
+    },
+    "USB": {
+      "DisplayName": "Experimental Agreement\"Plumes\"",
+      "Tooltip": "Repair your body and significantly increase all attributes\nBut you will continue to burn until death\n\"Did you see? The moment the feather burns\"\n\"The flying bird has already embraced the sun\""
+    },
+    "DS": {
+      "DisplayName": "Juniper and Daisy",
+      "Tooltip": "When you take damage, your Mana will absorb 50% of it.\nAny excess damage beyond your Mana will deduct from your HP normally.\nYour Mana Regeneration is forcibly set to zero.\nWhen your Mana is below 50% of your maximum Mana, you take 25% more damage.\nWhen your Mana is below 25% of your maximum Mana, you deal 25% less damage.\n\"Honestly, this shouldn’t be used together with unlimited Mana.\"\n\"That's all I have to say—the choice is yours.\""
+    },
+    "ExperimentalSteamGun": {
+      "DisplayName": "Experimental Steam Gun",
+      "Tooltip": "Use gel as ammunication\nEliminating pests with exceptional efficiency！"
+    },
+    "HuskEgg": {
+      "DisplayName": "Husk Egg",
+      "Tooltip": "Danger"
+    },
+    "ExperimentalCutter": {
+      "Tooltip": "",
+      "DisplayName": "Experimental Cutter"
+    },
+    "ASVAL": {
+      "DisplayName": "AS-VAL",
+      "Tooltip": "Popular Classics!"
+    },
+    "VSS": {
+      "Tooltip": "Popular Classics!",
+      "DisplayName": "VSS"
+    },
+    "SR3": {
+      "DisplayName": "SR-3",
+      "Tooltip": "Popular Classics!"
+    },
+    "BloodWildHunting": {
+      "Tooltip": "Increase 10% Melee Crit\nIncrease 15% Melee Attack Speed\nDecrease 20% Melee Damage\n\"Kill.Forget.Kill.Forget.\"",
+      "DisplayName": "Blood Wild Hunting"
+    },
+    "DragonBreathBullet": {
+      "DisplayName": "Dragon Breath Bullet",
+      "Tooltip": "Fragmentation Incendiary Ammunition"
+    },
+    "EndewoteBadge": {
+      "DisplayName": "Endewote Badge",
+      "Tooltip": "Increase 10 defense,10% damage,5% crit and 10% attack speed\nDouble the effect in FTW seeds\nFor the worthy......\n......\nTake this badge as a memento of an age of heroes.\nOnly the most worthy shall be bestowed with this supreme honor.\nThose who have lost everything will carry it as the embodiment of their family name."
+    },
+    "ThePactofForever": {
+      "DisplayName": "The Pact of Forever",
+      "Tooltip": "Summon the Star Facilitator to your location immediately.\nRevive the Star Facilitator if the ally is unable to fight.\nYou may use it anytime before the fated moment arrives...\nBut using it will shatter it.\n...\nAn exquisite crystal feather hairpin, embodying an initial promise...\n\"I foresee you will become everyone’s hero.\"\n\"If only I could be by your side at that moment...\""
+    },
+    "HPPart": {
+      "Tooltip": "Can use to make some cool weapons",
+      "DisplayName": "High Precision Part"
+    },
+    "AutoGuidedAmmo": {
+      "DisplayName": "Auto Guided Bullet",
+      "Tooltip": "High-tech wheel chair ammo"
+    },
+    "DarkNight": {
+      "Tooltip": "",
+      "DisplayName": "Dark Night"
+    },
+    "BlackForest": {
+      "Tooltip": "",
+      "DisplayName": "Black Forest"
+    },
+    "LeGhost": {
+      "Tooltip": "From ashes I arise, by hands unyielding\nFlee the Sea of Death, mimicking the form in memory...\nToo much remembered. Too much forgotten.\nToo much clung to. Too much lost.\nIs pure whiteness reality or wishful thinking?\nThe vast stellar orbits have branded my soul—\nOnly fate cannot be defied.\nEven if...\nIts absurd jest never ceases!\nNever! Never! Never!\n......\n\"Don't have to bear too much for me...Forandera.\"\n——The Lamplighter",
+      "DisplayName": "Epic Fragments - Ghost Knight"
+    },
+    "AzurePhantom": {
+      "DisplayName": "Azure Phantom",
+      "Tooltip": "Upon swinging, it unleashes wide-ranging blade auras.\nSword energy slashes auto-locks onto enemies and detonates on impact.\nA ritual sword of Forandera. Wielded only during her tenure as Holy Maiden.\nNo one dares to question the weight it bears—\n\"Redemption.\""
+    },
+    "BossBagGK": {
+      "DisplayName": "Boss Bag - Ghost Knight",
+      "Tooltip": ""
+    },
+    "DistortTales": {
+      "Tooltip": "Summon Ghost Knight",
+      "DisplayName": "Distort Tales"
+    },
+    "OrangeJuice": {
+      "Tooltip": "The classic sweet and sour fruit juice, Forandera's favorite.\nSlightly increases Movement Speed (+8% Movement Speed) for 3 minutes.\n\"Not all oranges are created equal, baby.\"",
+      "DisplayName": "Orange Juice"
+    },
+    "LightFruitTea": {
+      "Tooltip": "A blend of fruit juice and tea with a unique flavor.\nSlightly increases Critical Strike Chance (+5% Critical Strike Chance) for 3 minutes.\n\"Neither too sweet nor too rich—perfect for any time.\"",
+      "DisplayName": "Light Fruit Tea"
+    },
+    "PearlMilkTea": {
+      "DisplayName": "Pearl Milk Tea",
+      "Tooltip": "A popular, extra-sweet beverage.\nSlightly increases Damage and Defense (+3% Damage, +2 Defense) for 3 minutes.\n\"Watch out—you might not sleep at night.\""
+    },
+    "PinkDusk": {
+      "DisplayName": "Pink Dusk",
+      "Tooltip": "Rina's signature drink.\nBased on red wine, infused with berry jam and caramel, it offers a sweet, sour, and silky taste with a hint of bitterness;\ncrushed petals adorn the rim, like the glow of a sunset.\nAbove 50% HP: Increases Defense, slightly reduces Life Regeneration (+8 Defense, -1 Life Regeneration);\nBelow 50% HP: Increases Life Regeneration, slightly reduces Defense (+4 Life Regeneration, -2 Defense).\n\"To ideals, to freedom, to the most brilliant years still ahead!\""
+    },
+    "MusicBoxBOB": {
+      "Tooltip": "Nhelv,by Silentroom",
+      "DisplayName": "Music Box-Bloom of Blood"
+    },
+    "MusicBoxWorm": {
+      "Tooltip": "无千无万",
+      "DisplayName": "Music Box-Moulty Heritage"
+    },
+    "MusicBoxWM": {
+      "Tooltip": "无人区,by NoKANY",
+      "DisplayName": "Music Box-Wandering Mech"
+    },
+    "MusicBoxF2": {
+      "Tooltip": "Pragmatism Resurrection,by Laur",
+      "DisplayName": "Music Box-Divinity of Despair, Forandera(P2)"
+    },
+    "MusicBoxF1": {
+      "Tooltip": "Pragmatism Resurrection (Piano),by TBphil",
+      "DisplayName": "Music Box-Divinity of Despair, Forandera(P1)"
+    },
+    "MusicBoxDead": {
+      "Tooltip": "混乱Confusion,by 回廊音乐",
+      "DisplayName": "Music Box-Dead Falcon"
+    },
+    "CPAP": {
+      "Tooltip": "\tIn multiplayer mode, resurrect all dead players immediately.\n\tGrant the \"Resurrection Cooldown\" effect for 10 minutes.\n\tThis item cannot be reused during the duration of \"Resurrection Cooldown\".\n\tNo use in single player\n\tNote: Player texture might in piece. Die again will fix it.",
+      "DisplayName": "CPAP"
+    },
+    "BossBagRina": {
+      "DisplayName": "Boss Bag- Lamplighter",
+      "Tooltip": "Hmm.....en....."
+    }
+  },
+  "Projectiles": {
+    "SkyFireP.DisplayName": "Sky Fire P",
+    "WP.DisplayName": "W P",
+    "WSP.DisplayName": "W S P",
+    "StarP.DisplayName": "Star P",
+    "DestructionP.DisplayName": "Destruction P",
+    "DuskEyeP.DisplayName": "Dusk Eye P",
+    "TrueP.DisplayName": "True P",
+    "TrueSP.DisplayName": "True S P",
+    "TomatoP.DisplayName": "Tomato P",
+    "MaP.DisplayName": "Ma P",
+    "HyP.DisplayName": "Hy P",
+    "JuP.DisplayName": "Ju P",
+    "FSOHP.DisplayName": "F S O H P",
+    "SCSP.DisplayName": "S C S P",
+    "SCSSP.DisplayName": "S C S S P",
+    "SCSS.DisplayName": "S C S S",
+    "BloodgoldP.DisplayName": "Bloodgold P",
+    "InfernoP.DisplayName": "Inferno P",
+    "DQP.DisplayName": "D Q P",
+    "RinaP.DisplayName": "Rina P",
+    "VenusP.DisplayName": "Venus P",
+    "LightP.DisplayName": "Light P",
+    "GAP.DisplayName": "G A P",
+    "HDP.DisplayName": "H D P",
+    "SCSE.DisplayName": "S C S E",
+    "Shp2.DisplayName": "Shp2",
+    "Shp1.DisplayName": "Shp1",
+    "Shp3.DisplayName": "Shp3",
+    "Shp4.DisplayName": "Shp4",
+    "Shp5.DisplayName": "Shp5",
+    "RinaP2.DisplayName": "Rina P2",
+    "FFP.DisplayName": "F F P",
+    "KOEP1.DisplayName": "K O E P1",
+    "KOEP2.DisplayName": "K O E P2",
+    "KORP1.DisplayName": "K O R P1",
+    "KORP2.DisplayName": "K O R P2",
+    "KORP3.DisplayName": "K O R P3",
+    "RBP.DisplayName": "R B P",
+    "BoBBossP1.DisplayName": "Blood Air Mine",
+    "NotthebeesP.DisplayName": "Notthebees P",
+    "AoRP.DisplayName": "Ao R P",
+    "GSGP.DisplayName": "G S G P",
+    "GSGP2.DisplayName": "G S G P2",
+    "IP5.DisplayName": "I P5",
+    "IP4.DisplayName": "I P4",
+    "IP3.DisplayName": "I P3",
+    "IP2.DisplayName": "I P2",
+    "IP1.DisplayName": "I P1",
+    "LIP1.DisplayName": "L I P1",
+    "LIP2.DisplayName": "L I P2",
+    "LIP1S.DisplayName": "L I P1 S",
+    "LIP2S.DisplayName": "L I P2 S",
+    "LIP3.DisplayName": "L I P3",
+    "LIP1SS.DisplayName": "L I P1 S S",
+    "LIP2SS.DisplayName": "L I P2 S S",
+    "CrudeShellP.DisplayName": "Crude Shell",
+    "ElysiaP1.DisplayName": "Elysia P1",
+    "ElysiaP.DisplayName": "Elysia P",
+    "ElysiaBP.DisplayName": "Elysia B P",
+    "HealthBTP.DisplayName": "Health B T P",
+    "BORP.DisplayName": "B O R P",
+    "ZRP.DisplayName": "Z R P",
+    "ForanderaPetP.DisplayName": "Forandera Pet P",
+    "BloodgodBulletP.DisplayName": "Bloodgod Bullet",
+    "BloodPetP.DisplayName": "Blood Pet",
+    "nullP.DisplayName": "null P",
+    "FVP.DisplayName": "F V P",
+    "BloodSharpP.DisplayName": "Blood Sharp",
+    "COSP.DisplayName": "C O S P",
+    "COSP1.DisplayName": "C O S P1",
+    "ConSP.DisplayName": "Con S P",
+    "DUP.DisplayName": "D U P",
+    "StunBulletP.DisplayName": "Stun Bullet",
+    "FbossP1.DisplayName": "Fboss P1",
+    "nuller.DisplayName": "nuller",
+    "StoryP.DisplayName": "Story P",
+    "StoryP6.DisplayName": "Story P6",
+    "StoryP5.DisplayName": "Story P5",
+    "StoryP4.DisplayName": "Story P4",
+    "StoryP3.DisplayName": "Story P3",
+    "StoryP2.DisplayName": "Deapair Fire",
+    "FbossP2.DisplayName": "Despair Storm",
+    "FbossP3.DisplayName": "Despair Sharp",
+    "ThunderP.DisplayName": "Thunder P",
+    "FbossP4.DisplayName": "Fboss P4",
+    "RealismAP.DisplayName": "Realism A P",
+    "TWGP.DisplayName": "T W G P",
+    "TWRP.DisplayName": "T W R P",
+    "TWWP.DisplayName": "T W W P",
+    "SMP.DisplayName": "S M P",
+    "TWBP.DisplayName": "T W B P",
+    "TWBP2.DisplayName": "T W B P2",
+    "TWPP.DisplayName": "T W P P",
+    "TWYP.DisplayName": "T W Y P",
+    "DeadBossP.DisplayName": "Dead Bomb",
+    "DeadRocketP.DisplayName": "Dead Rocket",
+    "BSHBombP.DisplayName": "B S H Bomb P",
+    "BSHP.DisplayName": "B S H P",
+    "COSP3.DisplayName": "C O S P3",
+    "MFP.DisplayName": "M F P",
+    "ColorPrism.DisplayName": "Color Prism",
+    "EntropyPrism.DisplayName": "Entropy Prism",
+    "GDP.DisplayName": "G D P",
+    "GDP1.DisplayName": "G D P1",
+    "BloodgoldArrowP.DisplayName": "Bloodgold Arrow P",
+    "BombP.DisplayName": "Bomb P",
+    "RRP.DisplayName": "R R P",
+    "SMP2.DisplayName": "S M P2",
+    "LISP.DisplayName": "L I S P",
+    "ScorchingSunP.DisplayName": "Scorching Sun P",
+    "SCSPS.DisplayName": "S C S P S",
+    "SwingLight.DisplayName": "Swing Light",
+    "FDP.DisplayName": "F D P",
+    "SCPS.DisplayName": "S C P S",
+    "SwingLightR.DisplayName": "Swing Light R",
+    "MirageP.DisplayName": "Mirage P",
+    "ADSP.DisplayName": "A D S P",
+    "CHSP.DisplayName": "C H S P",
+    "circle1.DisplayName": "circle1",
+    "circle2.DisplayName": "circle2",
+    "HESP.DisplayName": "H E S P",
+    "light1.DisplayName": "light1",
+    "light2.DisplayName": "light2",
+    "MYSP.DisplayName": "M Y S P",
+    "Nail1.DisplayName": "Nail1",
+    "Nail2.DisplayName": "Nail2",
+    "Nail3.DisplayName": "Nail3",
+    "Nail4.DisplayName": "Nail4",
+    "ORSP.DisplayName": "O R S P",
+    "PASP.DisplayName": "P A S P",
+    "st1.DisplayName": "st1",
+    "st2.DisplayName": "st2",
+    "TITSP.DisplayName": "T I T S P",
+    "COSPP.DisplayName": "C O S P P",
+    "ForanderaPet1P.DisplayName": "Forandera Pet1 P",
+    "ESMP.DisplayName": "E-S-M-P",
+    "Warning.DisplayName": "Warning",
+    "WMGirl.DisplayName": "Super Blue Girl",
+    "ADP.DisplayName": "A D P",
+    "SOFP.DisplayName": "S O F P",
+    "WMArrowP.DisplayName": "W M Arrow P",
+    "LL22.DisplayName": "The Lamplighter",
+    "LL10.DisplayName": "The Lamplighter",
+    "LL12.DisplayName": "The Lamplighter",
+    "LL11.DisplayName": "The Lamplighter",
+    "LLL1.DisplayName": "The Lamplighter",
+    "ConfinementRing.DisplayName": "Confinement Ring",
+    "LL34.DisplayName": "The Lamplighter",
+    "LL33.DisplayName": "The Lamplighter",
+    "LL32.DisplayName": "The Lamplighter",
+    "LL31.DisplayName": "The Lamplighter",
+    "LL3Bomb.DisplayName": "The Lamplighter",
+    "LL35.DisplayName": "The Lamplighter",
+    "SwingLightB.DisplayName": "Swing Light B",
+    "StarFP.DisplayName": "Star F P",
+    "StarbladeP2.DisplayName": "Starblade P2",
+    "StarbladeP1.DisplayName": "Starblade P1",
+    "SteamP.DisplayName": "Steam P",
+    "CutterP.DisplayName": "Cutter P",
+    "NBP.DisplayName": "N B P",
+    "ElysiaP2.DisplayName": "Elysia P2",
+    "DBAP.DisplayName": "D B A P",
+    "DBAP1.DisplayName": "D B A P1",
+    "AGAP.DisplayName": "A G A P",
+    "GhostP.DisplayName": "Ghost",
+    "GhostP3.DisplayName": "Ghost P3",
+    "GhostP2.DisplayName": "Ghost P2",
+    "DNP.DisplayName": "D N P",
+    "SwingLightP.DisplayName": "Swing Light P",
+    "APP2.DisplayName": "A P P2",
+    "APP.DisplayName": "A P P",
+    "BombAP.DisplayName": "Bomb A P"
+  },
+  "NPCs": {
+    "ForanderaNPC": {
+      "DisplayName": "The Star Facilitator",
+      "TownNPCMood": {
+        "Content": "Hello!If you need anything,please go here.",
+        "NoHome": "No home for me now.Have you got a room for me?I will pat for it...maybe.",
+        "FarFromHome": "I think I got a lost.",
+        "LoveSpace": "Forest...Silent,peaceful,enough.",
+        "DislikeCrowded": "Maybe these guys did not like this place.So crowded.",
+        "HateCrowded": "Is this called a 'prison'?",
+        "LikeNPC_Princess": "Of course,{NPCName}is interesting.",
+        "Princess_LovesNPC": "I like {NPCName}。",
+        "LoveNPC": "我非常喜欢{NPCName}。",
+        "LikeNPC": "我喜欢{NPCName}。"
+      }
+    },
+    "BloomofBloodBoss.DisplayName": "Bloom of Blood",
+    "BloodTree.DisplayName": "Blessed Blood Tree",
+    "BloodTree2.DisplayName": "Cursed Blood Tree",
+    "EyeofMec.DisplayName": "Eye of Mec",
+    "EyeofMec2.DisplayName": "Eye of Mec",
+    "EyeofMec3.DisplayName": "Eye of Mec",
+    "OrderVolition.DisplayName": "Order Volition",
+    "RinaNPC": {
+      "TownNPCMood": {
+        "HateCrowded": "We are like fish in a jar.",
+        "DislikeCrowded": "Some crowded.What crowded? Human.",
+        "LoveSpace": "This place is good.I am glad to be buried into the land.",
+        "FarFromHome": "Too long to back,no light,no road.",
+        "NoHome": "Some one just like me is strolling.",
+        "Content": "Everything is OK.Just keep going.",
+        "LikeNPC_Princess": "Of course,{NPCName}is interesting.",
+        "Princess_LovesNPC": "I like {NPCName}。",
+        "LoveNPC": "我非常喜欢{NPCName}。",
+        "LikeNPC": "我喜欢{NPCName}。"
+      },
+      "DisplayName": "The Lamplighter"
+    },
+    "Archon": {
+      "TownNPCMood": {
+        "HateCrowded": "Too crowded.Minus.",
+        "DislikeCrowded": "Crowded.Minus.",
+        "LoveSpace": "This place is good.Plus.",
+        "FarFromHome": "Have home, can't back.",
+        "NoHome": "No home now.",
+        "Content": "Overall passing score.",
+        "LikeNPC_Princess": "I like {NPCName}。",
+        "Princess_LovesNPC": "I like {NPCName}。",
+        "LikeNPC": "我喜欢{NPCName}。"
+      },
+      "DisplayName": "The Archor"
+    },
+    "FbossMain.DisplayName": "Divinity of Despair, Forandera",
+    "Fboss2.DisplayName": "Seeds of Despair",
+    "Fboss1.DisplayName": "Seeds of Despair",
+    "Fboss4.DisplayName": "Seeds of Despair",
+    "Fboss3.DisplayName": "Seeds of Despair",
+    "Fboss6.DisplayName": "Seeds of Despair",
+    "Fboss5.DisplayName": "Seeds of Despair",
+    "Cockroach.DisplayName": "Cockroach",
+    "AtmosphericBiota.DisplayName": "Atmospheric Biota",
+    "AMHSBoss.DisplayName": "Atmospheric Maternal Heterogeneity Syndrome",
+    "ESMPOW.DisplayName": "Wander WM-143-A",
+    "Iceworm.DisplayName": "Iceworm",
+    "Test1.DisplayName": "Cockroach Plus",
+    "PlagueHarpy.DisplayName": "Plague Harpy",
+    "Test2.DisplayName": "Death Hunter",
+    "KCNPC": {
+      "DisplayName": "KC Army Member",
+      "TownNPCMood": {
+        "Content": "我很满足。",
+        "NoHome": "我讨厌没有家。",
+        "FarFromHome": "我离家太远了。",
+        "LoveSpace": "我非常喜欢有这么大的空间。",
+        "DislikeCrowded": "我不喜欢这么拥挤。",
+        "HateCrowded": "我讨厌这么拥挤。",
+        "LikeNPC_Princess": "我喜欢 {NPCName}。",
+        "Princess_LovesNPC": "我喜欢 {NPCName}。"
+      }
+    },
+    "ComNPC": {
+      "TownNPCMood": {
+        "Princess_LovesNPC": "I like {NPCName}。",
+        "LikeNPC_Princess": "I like {NPCName}。",
+        "HateCrowded": "Crowded?",
+        "DislikeCrowded": "Crowded.No.",
+        "LoveSpace": "Big place for me to play VR!",
+        "FarFromHome": "A long long way from my home.",
+        "NoHome": "No home for me?",
+        "Content": "Good."
+      },
+      "DisplayName": "Community Committee Member"
+    },
+    "DeadBoss.DisplayName": "Dead Falcon A-120",
+    "Meg_4.DisplayName": "Titan Epifocus",
+    "Meg_3.DisplayName": "Titan Epifocus",
+    "Meg_2.DisplayName": "Titan Epifocus",
+    "Meg.DisplayName": "Titan Epifocus",
+    "Jworm.DisplayName": "Moulty Heritage",
+    "Jworm_Body2.DisplayName": "Moulty Heritage",
+    "Jworm_Tail.DisplayName": "Moulty Heritage",
+    "WMBoss.DisplayName": "Wandering Mech-143",
+    "LamplighterBoss.DisplayName": "Unheroic hero,The Lamplighter",
+    "L21.DisplayName": "L21",
+    "LLD.DisplayName": "L L D",
+    "LLU.DisplayName": "L L U",
+    "LRD.DisplayName": "L R D",
+    "LRU.DisplayName": "L R U",
+    "MegS.DisplayName": "Long Night",
+    "MegS_2.DisplayName": "Long Night",
+    "MegS_3.DisplayName": "Long Night",
+    "MegS_4.DisplayName": "Long Night",
+    "HuskHead.DisplayName": "Husk Head",
+    "GhostKnight.DisplayName": "Ghost Knight"
+  },
+  "Dialogue": {
+    "ForanderaNPC": {
+      "StandardDialogue1": "I heard the echoes of terra. The world is still filled with suffering, but we will solve it.",
+      "StandardDialogue2": "What's the color of your heart?",
+      "StandardDialogue3": "Blood magic is out of the ordinary,but that is only a mirror,a mirror of the cruel world.",
+      "StandardDialogue4": "Get lots of money from me? I have no comment.Just be happy.Really...",
+      "StandardDialogue5": "Even if you endure hardships, don't stop. Keep moving forward, you can do it!",
+      "StandardDialogue6": "My past? That's a secret. My current task is to assist you.",
+      "StandardDialogue7": "Even though fate is so cruel, those small animals are still surviving. Every life has meaning.",
+      "StandardDialogue8": "What is meant by 'the only one you can trust is me?'",
+      "StandardDialogue9": "Why am I not affected by Blood Moon? Uh......You can try to let Blood Moon be influenced by you.",
+      "StandardDialogue10": "The world is even more beautiful because of you......At least I would think so.",
+      "StandardDialogue11": "You know what? Even super large ships cannot do without the simplest steel plates. So we need to start with the best steel plate.",
+      "StandardDialogue12": "I want to learn divination and then......Stop, I'm just getting a glimpse of the door, not that impressive.",
+      "StandardDialogue13": "If possible, I would like to study theology. But Rina told me that I don't actually need to do that.",
+      "StandardDialogue14": "Oh, are you here? Can I help you?",
+      "StandardDialogue15": "The belief of jungle lizards can give the stone statue such powerful power How much connection does faith and divinity have?",
+      "StandardDialogue16": "Although it doesn't seem like the question I raised, I still want to ask: How would you like to live?",
+      "StandardDialogue17": "Miss community committee member? She is good to all of us. Her ears are soft!",
+      "StandardDialogue18": "Spring is the season of growth for all things and the season of hope. The blooming flowers on the grassland are also a memorable scenery.",
+      "StandardDialogue19": "Although......Well, this scene is indeed a bit scary. I mean it.",
+      "StandardDialogue20": "I want to hear the voice of God .You want to become a god? Haha, it's not necessarily true.",
+      "StandardDialogue21": "Oh, my goodness ,Why are you here? I'll protect you......try my best.",
+      "Pure": "Purification"
+    },
+    "RinaNPC": {
+      "StandardDialogue1": "Remember your way,terrarian.We always align.",
+      "StandardDialogue2": "Forandera have her own secrets.I respect her choise.",
+      "StandardDialogue3": "My weapons come from myself.If you want,you can take them.But the cost...you know that.",
+      "StandardDialogue4": "I am a great wizard,Do you belive it? So,actually I am a god,would you believe it again?",
+      "StandardDialogue5": "You need to go further, further. Until I can't even see it.",
+      "StandardDialogue6": "Try riding a plastic pony, holding a cardboard sword, and charging towards a windmill!",
+      "StandardDialogue7": "What is meant by 'the one looks orange'? The barrage I fired was clearly blue!",
+      "StandardDialogue8": "Where is your door? I can't knock. I can't do everything.",
+      "StandardDialogue9": "When it's extremely dark, I will light a lamp for you.",
+      "StandardDialogue10": "Perhaps there is still knowledge in this world that brings me joy but has not been discovered by me.",
+      "StandardDialogue11": "Do you know the theory of the subconscious? Forandra used it to create a powerful metal. Perhaps one day she will let you use it.",
+      "StandardDialogue12": "Having that guy around will make me much more relaxed. But that doesn't mean I'm willing to look up at him.",
+      "StandardDialogue13": "99% of the enemies here are not a threat. Uh, I'm not your bodyguard.",
+      "StandardDialogue14": "Who has eyes on their brain? Oh my god,Your story ruined this beautiful day.",
+      "StandardDialogue15": "I once had a friend......Before she said goodbye to me, she returned the gift I had given her. I will never forget her.",
+      "StandardDialogue16": "Revive? Blasphemy. But looking back, I haven't done much either. If one day I am punished by heaven, stay away from me.No, you can't run either.",
+      "StandardDialogue17": "That little cat who likes coins? Well, ivery fun. I gave her a little favor.Keep it confidential, don't say it was me who did it!",
+      "StandardDialogue18": "Bathing in the warm sunset, lying down peacefully in the maple forest, watching the fruits ripen, is truly a great happiness.",
+      "StandardDialogue19": "Want to see how I made a fool of myself under the Blood Moon? Thinking beautifully. The moon is not worthy of competing with the sun.",
+      "StandardDialogue20": "The Sun？Perhaps the sun has already died."
+    },
+    "Archon": {
+      "StandardDialogue1": "The real face? That's not good for you.",
+      "StandardDialogue2": "Many of my products come from citizens, except for the one that looks orange.",
+      "StandardDialogue3": "Want to challenge me? If you can prove yourself, I don't mind having a competition with you.",
+      "StandardDialogue4": "Never give up.Never be a yielder.Never fall into depravity.",
+      "StandardDialogue5": "Sharing an observation: I had to share some serious parts.",
+      "StandardDialogue6": "There's no need to fuss over the future. Have you finished what you should be doing now?",
+      "StandardDialogue7": "I just need to stand here, and others will understand what I mean. I didn't actually move at all.",
+      "StandardDialogue8": "The theory of the lamplighter differs from mine, but sometimes we still need to collaborate.",
+      "StandardDialogue9": "Next time you come in, knock on the door first. If there is no door, knock on the platform.",
+      "StandardDialogue10": "Share a story: There was a king of the jungle who loved bees. Be careful when you go to the jungle to deal with bees.",
+      "StandardDialogue11": "Terra Emperor? I am not the Terra Emperor.",
+      "StandardDialogue12": "Neither I nor that guy will be responsible for things that shouldn't exist. Be prepared before facing the test.",
+      "StandardDialogue13": "Share an observation: the core strength of humans is stronger than that of worms. As long as you run fast enough, worms won't be able to catch up with you.",
+      "StandardDialogue14": "Are you buying my product because you don't have silk to make an automatic fishing machine?",
+      "StandardDialogue15": "A person's strength may not necessarily be efficient, and the power of unity will also be comparable to that of gods. That's why the term 'Archon' was formed.",
+      "StandardDialogue16": "My clothes? You can get one from anywhere. But what really matters is that strong enough heart.",
+      "StandardDialogue17": "The community committee member takes her work very seriously. Although she has some language \"characteristics\", I am certain of her work.",
+      "StandardDialogue18": "I once strolled in the snowy plains on winter nights. Respectful, calm, without a trace of dirt. Only in this way can we temporarily forget those things that we have to remember.",
+      "StandardDialogue19": "Applying for additional military supplies requires presenting results first.",
+      "StandardDialogue20": "There is not only one enemy in the world, nor is there only one friend. In this battlefield where numerous forces are intertwined and tearing apart, the true winner has not yet been determined.",
+      "StandardDialogue21": "How did my army survive in such a difficult environment? Beliefs, strategies, and I called for a courier.",
+      "StandardDialogue22": "Rare celestial phenomena. Those monsters? Speak to the truth."
+    },
+    "KCNPC": {
+      "StandardDialogue1": "Stop, regular security check....... Okay, you can go now.",
+      "StandardDialogue2": "In principle, I should not provide services to you, but the military and civilians are one family ,do you understand?",
+      "StandardDialogue3": "The Grand Archon? If you see him, please give him my regards.",
+      "StandardDialogue4": "This is the King Cobra Field Army. On the orders of the Grand Archon, we will protect your safety.",
+      "StandardDialogue5": "Discovered by passersby? It seems that my covert techniques still need training."
+    },
+    "ComNPC": {
+      "StandardDialogue1": "Morning meow! Want to see the construction of community members meow?",
+      "StandardDialogue2": "Cheer up your spirit meow!",
+      "StandardDialogue3": "You say Forandera meow? Cute meow!",
+      "StandardDialogue4": "The the the aaarchon? Why he is here meow? I am afraid......",
+      "StandardDialogue5": "Rina meow! She teased me meow! She also looks like a cat meow!",
+      "StandardDialogue6": "The creaking sound of opening and closing doors is terrifying! What? What is \"fixed fate\" meow?",
+      "StandardDialogue7": "Now we can help others handle the goods! so happy meow!",
+      "StandardDialogue8": "I heard that in another Terra, there was a meow like me that was shattered into dust and raised... It's so scary meow! I definitely don't want to live in this world in the form of dust in the future, meow!",
+      "StandardDialogue9": "Subscribe Forandera mod meow! Subscribe Forandera mod thanks meow!",
+      "StandardDialogue10": "Do you like shiny things, meow? That's right, coins! Hand it over, meow!",
+      "StandardDialogue11": "Do you want to join the Forandera community meow? Let's work together for a better tomorrow, Meow!",
+      "StandardDialogue12": "Nothing is more important than a cup of iced cola in the midst of summer! Just combing through the fur can be troublesome, meow .....",
+      "StandardDialogue13": "Ciallo~(/ • w < )^ [i:75]",
+      "StandardDialogue14": "Re.GT，iCloudy ,子神木,翘盒, Kevi ,斯塔夫里STF,桐坂,Disaster_Horror,ChatLiu,Huangmo86,叶阳淮云醉巧，幻梦，You did a god job！",
+      "StandardDialogue15": "Hah!Meow!Boom!",
+      "StandardDialogue16": "Wahhhhhh!Monster!"
+    }
+  },
+  "TextBboss1": "Crazy blood began to boil ......A new offensive has begun!",
+  "TextBboss2": "The blessed blood has been resurrected!",
+  "TextBboss3": "The cursed blood has been resurrected!",
+  "TextFboss1": "Radiance blooms from the cocoon shell......",
+  "TextFboss2": "The real prove start again!",
+  "TextFboss3": "The Star Facilitator's divinity effected the Divinity of Despair.Boss autocatically deducts health points!",
+  "TextBoBn": "Bloom of Blood",
+  "TextDoDn": "Divinity of Despair, Forandera",
+  "TextDeadn": "Dead Falcon A-120",
+  "TextDeadn1": "The plague is approaching!",
+  "BloodgoldBonus": "Increase 10% damage,20 maxhp and 1 life regen",
+  "TextMeg": "Titan Epifocus",
+  "TextWM": "Wandering Mech-143",
+  "BronyaBonus": "Increase 100 life max, Increase 2s max flying time and 1 max mimion",
+  "StaroverBonus": "Increase 5% damage and crit of your metier,you will move very fast",
+  "StaroverBonus2": "Increase 1 max minion,you will move very fast",
+  "TextLamp1": "About to Unleash: Hear the Call of the Apocalypse",
+  "TextLamp2": "About to Unleash: Bid Farewell to the Light of the Past",
+  "TextLamp3": "About to Unleash: Survivors Drown in the Dead Sea",
+  "TextLamp4": "About to Unleash: Grant Sleep to the Lost",
+  "Texttalk0": "It's really not easy to come here, traveler.",
+  "Texttalk1": "You have come such a long way... you have not disappointed their expectations.",
+  "Texttalk2": "But this is not the end. Far from it.",
+  "Texttalk3": "If you cannot pass my test, then you cannot face the next enemy either.",
+  "Texttalk4": "Are you ready？",
+  "Texttalk5": "Don't easily fall with the sun!",
+  "Texttalk6": "Time never stops, just like your journey. I believe you are prepared to face even more terrifying things.",
+  "Texttalk7": "The real River Styx is much longer than this......",
+  "Texttalk8": "Excellent! There are very few people who can force me to do this, you can be considered one.",
+  "Texttalk9": "So, in this proof, seize your opportunity！",
+  "Texttalk10": "The explosion of a supernova will never end until its heroic death......",
+  "Texttalk11": "Go beyond me and become a true god, traveler!",
+  "Texttalk12": "Are you using invincibility or what? This is no fun anymore, y'know......",
+  "Texttalk13": "I'll admit you're tough enough to hang in there, but it's over now. I'm tired.",
+  "Texttalk14": "Even if you beat me now, I still refuse to be your wife.",
+  "TextFboss11": "Newborn children, even before they learn to walk or speak, will perceive what kind of world this is on their own.",
+  "TextFboss12": "From the moment I was born, I could feel the earth's sorrows. This is a secret I never shared with them.",
+  "TextFboss13": "Back then, I asked the world: Why must we endure all this suffering?",
+  "TextFboss14": "But now, I understand how to live up to this innate gift.",
+  "TextFboss15": "I will purify them, even if their obsessions run deeper than I can bear. I will keep searching for ways, until...",
+  "TextFboss16": "Until I dedicate my life to this world—let the polluted be purified, the confined be freed, and the fallen be redeemed.",
+  "TextFboss17": "Thank you, Traveler. At the moment I touched the answer, you stood firmly by my side.",
+  "TextFboss18": "I, Forandera, swear by my name: this will not be a story of despair. It will be the beginning of [Rebirth].",
+  "TPOF1": "Forandera arrived!",
+  "TPOF2": "The Star Facilitator Forandera has been revived!",
+  "TextGK": "Ghost Knight",
+  "TexttalkCPAP": "The CPAP is useless in single player.Just sell at a good price.",
+  "TextRina": "Unheroic hero,The Lamplighter",
+  "Buffs": {
+    "ForanderaPetBuff": {
+      "DisplayName": "Forandera",
+      "Description": "My friend: add 20% all damage"
+    },
+    "BloodCollapseBuff": {
+      "DisplayName": "Blood Collapse Buff",
+      "Description": "Profuse bleeding"
+    },
+    "BloodPetBuff": {
+      "DisplayName": "Blood Pet Buff",
+      "Description": "emmmmm"
+    },
+    "ForanderaDebuff": {
+      "DisplayName": "Mental Trauma",
+      "Description": "Collapse!"
+    },
+    "Mutation": {
+      "DisplayName": "Mutation",
+      "Description": "It is not good......"
+    },
+    "RadiationBuff": {
+      "Description": "Decrease damage and health",
+      "DisplayName": "Radiation Buff"
+    },
+    "DeathSeaBuff": {
+      "Description": "Do not forget that you will eventually die",
+      "DisplayName": "Death Sea"
+    },
+    "StunBuff": {
+      "DisplayName": "Stun Buff",
+      "Description": "Decrease the knockback endurence of NPC,decrease the speed of player"
+    },
+    "CollapseDebuff": {
+      "DisplayName": "Collapse Debuff",
+      "Description": "Decrease 50 defense(50% for NPC)"
+    },
+    "DeadBossBuff": {
+      "DisplayName": "Gene Breakdown",
+      "Description": "You have become very fragile"
+    },
+    "KevinBuff": {
+      "DisplayName": "Immunity Buff",
+      "Description": "Immunity"
+    },
+    "ForanderaPet1Buff": {
+      "DisplayName": "Forandera Pet-V Buff",
+      "Description": "Always......"
+    },
+    "Starover": {
+      "DisplayName": "Starover",
+      "Description": "Low power......"
+    },
+    "ShiningburnBuff": {
+      "DisplayName": "Shiningburn Buff",
+      "Description": "I am Fire!"
+    },
+    "SCSBuff": {
+      "Description": "A parry attack!",
+      "DisplayName": "Star Cross"
+    },
+    "HuskDebuff": {
+      "Description": "Mods.Forandera.Buffs.HuskDebuff.Description",
+      "DisplayName": "Husk Debuff"
+    },
+    "ELYBuff": {
+      "DisplayName": "Love and Pity",
+      "Description": "Increase 10% damage,skill cooldown."
+    },
+    "Nion": {
+      "Description": "Stars will protext you",
+      "DisplayName": "Nion"
+    },
+    "BloodSumBuff": {
+      "DisplayName": "Blood Sum",
+      "Description": "A blood beetle will protext you"
+    },
+    "TomatoBuff": {
+      "DisplayName": "Tomato?",
+      "Description": "What is this?"
+    },
+    "FingerBuff": {
+      "Description": "Cool bone!",
+      "DisplayName": "Finger Buff"
+    },
+    "BloodCollapseBuff2": {
+      "Description": "Niver Fade",
+      "DisplayName": "Blood Collapse - Endnesss Red"
+    },
+    "GhostHotBuff": {
+      "Description": "Wave!",
+      "DisplayName": "Ghost Hot"
+    },
+    "Starover2": {
+      "Description": "You cannot move quickly",
+      "DisplayName": "Starover-Palsy"
+    },
+    "FoodBuff4": {
+      "Description": "Above 50% HP: Increases Defense, slightly reduces Life Regeneration,Below 50% HP: Increases Life Regeneration, slightly reduces Defense",
+      "DisplayName": "Beverage Effect: Pink Dusk"
+    },
+    "FoodBuff3": {
+      "Description": "Slightly increases Damage and Defense",
+      "DisplayName": "Beverage Effect: Pearl Milk Tea"
+    },
+    "FoodBuff2": {
+      "Description": "Slightly increases Critical Strike Chance",
+      "DisplayName": "Beverage Effect: Light Fruit Tea"
+    },
+    "FoodBuff": {
+      "Description": "+8% Movement Speed",
+      "DisplayName": "Beverage Effect: Orange Juice"
+    },
+    "CPAPCooldown": {
+      "Description": "YOu cann not use CPAP",
+      "DisplayName": "CPAP Cooldown"
+    }
+  },
+  "WorldGen": {
+    "ExampleOrePassMessage": "Zirconium",
+    "BlessedWithExampleOreMessage": "Zirconium"
+  },
+  "Tiles.ZirconiumOre.MapEntry": "Zirconium Ore"
+}
